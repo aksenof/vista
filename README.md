@@ -55,10 +55,10 @@ MySQLCursor: CREATE TABLE wishlist (id INT,name VARCH..
 
 MySQLCursor: INSERT INTO wishlist (id, name, price, l..
 
-8. Запустить файл run.py для запуска интерфейса с таблицей, содержащей пример "example" :
+8. Запустить файл run.py:
 
 python run.py
 
-9. Пример "example":
+9. Результат:
 
 ![example](https://raw.githubusercontent.com/aksenof/vista/master/example.png)
