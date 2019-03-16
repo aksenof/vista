@@ -32,10 +32,12 @@ Administrative Roles: All roles and privileges
 5. Клонировать/скачать репозиторий vista, используя ssh/http/zip:
 
 ssh: git@github.com:aksenof/vista.git
+
 http: https://github.com/aksenof/vista.git
+
 zip: https://github.com/aksenof/vista/archive/master.zip
 
-6. Запустить файл install_db.py с помощью python для установки базы данных, таблицы "wishlist" и примера "example" :
+6. Запустить файл install_db.py с помощью python для установки БД, таблицы "wishlist" и примера "example" :
 
 python install_db.py
 
@@ -55,4 +57,4 @@ python run.py
 
 8. Пример "example":
 
-
+![example](https://raw.githubusercontent.com/aksenof/vista/master/example.png)
