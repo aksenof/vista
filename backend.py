@@ -1,3 +1,4 @@
+# hi vista
 from mysql import connector
 
 db = connector.connect(
